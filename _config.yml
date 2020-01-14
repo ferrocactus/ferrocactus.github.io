@@ -1,0 +1,26 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://jekyller.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+# jekyller.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Euxhen Hasanaj
+name: Euxhen Hasanaj
+email: ehasanaj at_char andrew dot_char cmu dot_char edu
+website: ferrocactus.github.io
+github: ferrocactus
+linkedin: euxhen-hasanaj-8696a712a
+#twitter: twitter
+
+# needed for travis-ci build
+exclude: [vendor]
