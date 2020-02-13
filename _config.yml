@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://ferrocactus.github.io/
-author: Fábio Madeira
+author: Euxhen Hasanaj
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
@@ -20,7 +20,7 @@ email: ehasanaj at_char andrew dot_char cmu dot_char edu
 website: ferrocactus.github.io
 github: ferrocactus
 linkedin: euxhen-hasanaj-8696a712a
-#twitter: twitter
+twitter: ferrocactusss
 
 # needed for travis-ci build
 exclude: [vendor]
